@@ -8,12 +8,8 @@
 - 📫 Contate-me no email: walissonoliveira@ufba.br
 - 😄 Pronouns: ele/dele
 
-<div align="center">
-  <a href="https://github.com/WaliSantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaliSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaliSantos&layout=compact&langs_count=7&theme=dark&random=1"/>
-  </a>
-</div>
+![Wali GitHub stats](https://github-readme-stats.vercel.app/api?username=WaliSantos&show_icons=true&layout=compact&langs_count=7&theme=one-dark)
+[![Wali Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaliSantos)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias e Ferramentas que Estou Explorando
 
