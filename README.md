@@ -8,8 +8,21 @@
 - 📫 Contate-me no email: walissonoliveira@ufba.br
 - 😄 Pronouns: ele/dele
 
-![Wali GitHub stats](https://github-readme-stats.vercel.app/api?username=WaliSantos&show_icons=true&layout=compact&langs_count=7&theme=one-dark)
-[![Wali Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaliSantos)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=WaliSantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+
+  <img 
+    align="center" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaliSantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
 ### Tecnologias e Ferramentas que Estou Explorando
 
@@ -32,7 +45,6 @@
   <a href="https://www.instagram.com/walcom.x/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:walissonsantos.oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/walisson-santos-100520219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
+
 </div>
 
